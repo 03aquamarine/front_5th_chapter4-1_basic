@@ -83,7 +83,7 @@ jobs:
 - S3와 스토리지
   - AWS S3(Simple Storage Service)는 클라우드 파일 보관 서비스로, 웹사이트 이미지, HTML, CSS, JS 파일 등을 버킷(폴더) 단위로 보관
 - CloudFront와 CDN
-  - CDN(Content Delivery Network)는 콘텐츠 전송 가속화 시스템으로 전 세계에 분산된 엣지 로케이션(캐시 서버) 통해 웹 콘텐츠를 사용자에게 빠르게 전달
+  - CDN(Content Delivery Network)는 콘텐츠 전송 가속화 시스템으로 전 세계에 분산된 엣지 로케이션(캐시 서버)를 통해 웹 콘텐츠를 사용자에게 빠르게 전달
   - CloudFront는 AWS에서 제공하는 CDN 서비스
 - 캐시 무효화(Cache Invalidation)
   - 웹사이트의 이미지, HTML, CSS, JS 파일이 변경되었을 때 사용자에게 최신 콘텐츠를 제공하기 위해 캐시를 강제로 갱신하는 작업
